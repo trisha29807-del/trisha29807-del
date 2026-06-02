@@ -72,6 +72,16 @@ I am a **Computer Science Engineering student at IGDTUW**, currently strengtheni
 
 ---
 
+## ⚡ LeetCode Stats
+
+<p align="center">
+  <a href="[YOUR_LEETCODE_PROFILE_LINK](https://leetcode.com/u/trisha29807/)">
+    <img src="https://leetcard.jacoblin.cool/trisha29807?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 ### 🍽️ FoodBridge Connect  
