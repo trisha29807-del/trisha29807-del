@@ -65,7 +65,7 @@ I am a **Computer Science Engineering student at IGDTUW**, currently strengtheni
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trisha29807-del&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
