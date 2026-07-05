@@ -57,7 +57,7 @@
 # 🏆 Highlights
 
 - 🏆 Delhi AI Grind Finalist
-- 🧪 Machine Learning Research Intern @ DTU
+- 🧪 Machine Learning Research Intern @ IGDTUW
 - 🎓 B.Tech CSE @ IGDTUW
 
 ---
