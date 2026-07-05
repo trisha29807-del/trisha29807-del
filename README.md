@@ -1,134 +1,211 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7B68EE&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Trisha+%F0%9F%91%8B;CSE+Student+%40+IGDTUW;DSA+%7C+ML+%7C+GenAI+%7C+Android;Building+Projects+with+Purpose" alt="Typing SVG" />
-</div>
 
-<h3 align="center">Computer Science Engineering Student | DSA Learner | ML & GenAI Intern | Project Builder 🚀</h3>
+# Hi 👋, I'm Trisha
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/trisha-502a80388">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:trisha29807@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+### Software Developer • Machine Learning Enthusiast • Aspiring AI Researcher
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=trisha29807-del&label=Profile%20Views&color=7B68EE&style=flat" alt="Profile Views" />
-</div>
-
----
-
-## ⚡ About Me
-
-I am a **Computer Science Engineering student at IGDTUW**, currently strengthening my foundation in **Data Structures, Machine Learning, Generative AI, and Android Development**.
-
-- 🔭 Currently working on improving my **DSA and problem-solving skills**
-- 🤖 Exploring **Machine Learning and Generative AI** through internship-based learning
-- 📱 Built Android-based academic and hackathon-style projects
-- 🧩 Practicing coding challenges to improve consistency and logic
-- 🌱 Learning by building, debugging, documenting, and improving every day
-
----
-
-## 🚀 Current Focus
-
-- Data Structures & Algorithms
-- Machine Learning & Generative AI
-- Android Development with Kotlin
-- Python for Data Science
-- Clean GitHub documentation
-- Real-world project building
-
----
-
-## 🛠 Tech Stack
-
-### Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Web & Database  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=trisha29807-del&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=trisha29807-del&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=trisha29807-del&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## ⚡ LeetCode Stats
+*Building software that solves real-world problems.*
 
 <p align="center">
-  <a href="[YOUR_LEETCODE_PROFILE_LINK](https://leetcode.com/u/trisha29807/)">
-    <img src="https://leetcard.jacoblin.cool/trisha29807?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+Student+@+IGDTUW;Machine+Learning+%7C+Software+Development;Building+Projects+with+Purpose;Always+Learning.+Always+Building." />
+</p>
+
+<p align="center">
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/trisha-502a80388)">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="[YOUR_LEETCODE](https://leetcode.com/u/trisha29807/)">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:trisha29807@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet)
+
+</div>
+
+---
+
+# 👩‍💻 About Me
+
+🎓 Computer Science Engineering student at **Indira Gandhi Delhi Technical University for Women (IGDTUW)**
+
+💻 Passionate about building impactful software through **Machine Learning**, **Artificial Intelligence**, and **Full Stack Development**
+
+📄 Currently working on a **Fake News Detection** research project using NLP techniques
+
+🧩 Strengthening problem-solving skills through consistent DSA practice
+
+🌱 I enjoy learning by building projects that combine research with real-world applications.
+
+---
+
+# 🚀 Currently Building
+
+- 📰 Fake News Detection using NLP
+- 📄 Research Paper
+- 🌐 Full Stack Development (MERN)
+- 🧩 Daily DSA Practice
+- 🤖 Exploring Transformers & Generative AI
+
+---
+
+# 🏆 Highlights
+
+- 🏆 Delhi AI Grind Finalist
+- 🧪 Machine Learning Research Intern @ DTU
+- 🎓 B.Tech CSE @ IGDTUW
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,kotlin"/>
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css"/>
+</p>
+
+### Machine Learning
+
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- NLP
+- Transformers
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,mysql"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 🔬 Research Interests
 
-### 🍽️ FoodBridge Connect  
-A food donation and distribution Android app concept focused on connecting surplus food with people in need.
-
-**Tech Stack:** Kotlin, Android Studio  
-**Highlights:** Authentication, food listing, browsing, order flow, profile, chat, and tracking screens.
-
----
-
-### 🌿 DriftZero  
-A digital wellness concept aimed at reducing doomscrolling through behavior-aware interventions and mindful technology design.
-
-**Focus Areas:** Digital Wellbeing, User Behavior, AI-based Interventions, Sentiment Analysis
+- Natural Language Processing
+- Fake News Detection
+- Responsible AI
+- Machine Learning
+- Generative AI
 
 ---
 
-### 🧠 ACM-POTD  
-A coding practice repository focused on maintaining consistency through problem-solving challenges.
+# 📂 Featured Projects
 
-**Focus Areas:** DSA, Logic Building, Coding Practice, Documentation
+### 📰 Fake News Detection
 
----
-
-## 📈 GitHub Goals
-
-- Solve DSA problems consistently
-- Build and document ML/GenAI projects
-- Create useful real-world applications
-- Improve repository READMEs and project presentation
-- Keep learning through projects, internships, and hackathons
+Detecting misinformation using Machine Learning and Transformer models.
 
 ---
 
-## 🌱 Learning Mindset
+### 🍽️ FoodBridge Connect
 
-> I believe in learning by building, making mistakes, debugging patiently, and becoming better one project at a time.
+Android application connecting food donors with NGOs.
 
 ---
 
-## 📫 Connect with Me
+### 🌿 DriftZero
+
+Helping users reduce doomscrolling through technology.
+
+---
+
+# 🧩 Problem Solving
+
+🎯 Goal: Build strong problem-solving skills through consistent DSA practice.
+
+Current Focus:
+
+- Arrays
+- Binary Search
+- Trees
+- Dynamic Programming
+
+Platforms:
+
+- LeetCode
+- CodeForces
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=trisha29807-del&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=trisha29807-del&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trisha29807-del&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trisha29807-del&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/trisha29807?theme=dark&font=Poppins&ext=contest"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/trisha29807-del/trisha29807-del/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/trisha-502a80388)">LinkedIn</a> •
+<a href="[YOUR_LEETCODE](https://leetcode.com/u/trisha29807/)">LeetCode</a> •
+<a href="mailto:trisha29807@gmail.com">Email</a>
+
+</p>
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/trisha-502a80388">
-    <img src="https://img.shields.io/badge/LinkedIn-Trisha-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:trisha29807@gmail.com">
-    <img src="https://img.shields.io/badge/Email-trisha29807%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+### ✨ *"Building today. Improving every day."*
+
+⭐ Thanks for visiting my profile!
+
 </div>
