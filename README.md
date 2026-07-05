@@ -24,7 +24,7 @@
 </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=trisha29807-del&style=flat-square&color=blueviolet)
 
 </div>
 
