@@ -104,23 +104,47 @@
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-### 📰 Fake News Detection
+### 📰 Fake News Detection *(Research Project)*
+An NLP-powered fake news detection system leveraging traditional Machine Learning and Transformer-based models. This project includes comparative analysis across multiple datasets and forms the basis of my ongoing research paper.
 
-Detecting misinformation using Machine Learning and Transformer models.
+**Tech Stack:** Python • Scikit-learn • TensorFlow • Transformers • NLP
+
+🔗 *Repository:* Coming Soon
+
+---
+
+### 🏛️ Delhi Heritage Explorer
+An interactive web application designed to help users explore Delhi's rich cultural and historical heritage through an intuitive and visually engaging interface.
+
+**Key Features**
+- 🗺️ Interactive exploration of heritage sites
+- 📍 Location-based information
+- 📸 Rich visuals and descriptions
+- 📱 Responsive and user-friendly interface
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🔗 *Repository:* [Delhi Heritage Explorer]([YOUR_REPOSITORY_LINK](https://github.com/trisha29807-del/delhi-heritage-explorer))
 
 ---
 
 ### 🍽️ FoodBridge Connect
+An Android application that connects food donors with NGOs and volunteers, helping reduce food wastage through efficient food redistribution.
 
-Android application connecting food donors with NGOs.
+**Tech Stack:** Kotlin • Firebase • Android Studio
+
+🔗 *Repository:* [FoodBridge Connect]([YOUR_REPOSITORY_LINK](https://github.com/trisha29807-del/FOOD-BRIDGE-CONNECT))
 
 ---
 
 ### 🌿 DriftZero
+A digital wellbeing platform focused on reducing doomscrolling by encouraging mindful technology usage and healthier digital habits.
 
-Helping users reduce doomscrolling through technology.
+**Tech Stack:** HTML • CSS • JavaScript *(Update as needed)*
+
+🔗 *Repository:* [DriftZero]([YOUR_REPOSITORY_LINK](https://github.com/trisha29807-del/driftzero-your-digital-oasis))
 
 ---
 
@@ -190,15 +214,16 @@ Platforms:
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect with Me
 
-<p align="center">
-
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/trisha-502a80388)">LinkedIn</a> •
-<a href="[YOUR_LEETCODE](https://leetcode.com/u/trisha29807/)">LeetCode</a> •
-<a href="mailto:trisha29807@gmail.com">Email</a>
-
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/trisha-502a80388">
+    <img src="https://img.shields.io/badge/LinkedIn-Trisha-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:trisha29807@gmail.com">
+    <img src="https://img.shields.io/badge/Email-trisha29807%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
