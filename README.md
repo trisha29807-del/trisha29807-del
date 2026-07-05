@@ -126,7 +126,7 @@ An interactive web application designed to help users explore Delhi's rich cultu
 
 **Tech Stack:** HTML • CSS • JavaScript
 
-🔗 **Repository:** [Delhi Heritage Explorer]([YOUR_REPOSITORY_LINK](https://github.com/trisha29807-del/delhi-heritage-explorer))
+🔗 **Repository:** [Delhi Heritage Explorer](https://github.com/trisha29807-del/delhi-heritage-explorer)
 
 ---
 
@@ -135,7 +135,7 @@ An Android application that connects food donors with NGOs and volunteers, helpi
 
 **Tech Stack:** Kotlin • Firebase • Android Studio
 
-🔗 **Repository:** [FoodBridge Connect]([YOUR_REPOSITORY_LINK](https://github.com/trisha29807-del/FOOD-BRIDGE-CONNECT))
+🔗 **Repository:** [FoodBridge Connect]((https://github.com/trisha29807-del/FOOD-BRIDGE-CONNECT))
 
 ---
 
@@ -144,7 +144,7 @@ A digital wellbeing platform focused on reducing doomscrolling by encouraging mi
 
 **Tech Stack:** HTML • CSS • JavaScript *(Update as needed)*
 
-🔗 **Repository:** [DriftZero]([YOUR_REPOSITORY_LINK](https://github.com/trisha29807-del/driftzero-your-digital-oasis))
+🔗 **Repository:** [DriftZero]((https://github.com/trisha29807-del/driftzero-your-digital-oasis))
 
 ---
 
