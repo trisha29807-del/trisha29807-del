@@ -111,7 +111,7 @@ An NLP-powered fake news detection system leveraging traditional Machine Learnin
 
 **Tech Stack:** Python • Scikit-learn • TensorFlow • Transformers • NLP
 
-🔗 *Repository:* Coming Soon
+🔗 **Repository:** [Fake News Detection ML Model](https://github.com/trisha29807-del/Explainable-Fake-News-Detection-using-Machine-Learning-Generative-AI)
 
 ---
 
