@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/trisha-502a80388)">
+<a href="https://www.linkedin.com/in/trisha-502a80388">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
