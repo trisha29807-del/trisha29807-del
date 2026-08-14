@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[YOUR_LEETCODE](https://leetcode.com/u/trisha29807/)">
+<a href="https://leetcode.com/u/trisha29807/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
